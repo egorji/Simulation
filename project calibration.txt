@@ -1,0 +1,107 @@
+Rush Hours:
+------------------
+
+distance between cars:  3
+Area average waiting times in rush hours: 25.330
+waiting time statistics:
+standard deviation: 21.411
+minimum waiting time: 0.000    maximum waiting time: 59.021
+Quantiles:   Q1=0.000    Q2=31.695     Q3=44.439
+
+Area average passing times in rush hours: 36.713
+Area total pullution emitted due to cars idling in rush hours: 9287.706
+Area total pullution emitted due to cars accelerating in rush hours: 5190.361
+Area total pullution emitted due to cars moving in normal speed in rush hours: 7488.788
+============================================================================================
+
+distance between cars:  4
+Area average waiting times in rush hours: 26.818
+waiting time statistics:
+standard deviation: 25.795
+minimum waiting time: 0.000    maximum waiting time: 66.576
+Quantiles:   Q1=0.000    Q2=29.438     Q3=52.698
+
+Area average passing times in rush hours: 37.740
+Area total pullution emitted due to cars idling in rush hours: 8327.004
+Area total pullution emitted due to cars accelerating in rush hours: 3400.602
+Area total pullution emitted due to cars moving in normal speed in rush hours: 6109.095
+=============================================================================================
+
+distance between cars:  5
+Area average waiting times in rush hours: 82.201
+waiting time statistics:
+standard deviation: 60.347
+minimum waiting time: 0.000    maximum waiting time: 144.860
+Quantiles:   Q1=1.643    Q2=118.598     Q3=131.347
+
+Area average passing times in rush hours: 95.277
+Area total pullution emitted due to cars idling in rush hours: 20076.057
+Area total pullution emitted due to cars accelerating in rush hours: 6963.253
+Area total pullution emitted due to cars moving in normal speed in rush hours: 6776.801
+==============================================================================================
+
+distance between cars:  6
+Area average waiting times in rush hours: 104.434
+waiting time statistics:
+standard deviation: 70.595
+minimum waiting time: 0.515    maximum waiting time: 291.310
+Quantiles:   Q1=67.311    Q2=101.168     Q3=144.842
+
+Area average passing times in rush hours: 118.167
+Area total pullution emitted due to cars idling in rush hours: 22956.080
+Area total pullution emitted due to cars accelerating in rush hours: 8910.241
+Area total pullution emitted due to cars moving in normal speed in rush hours: 5229.897
+------------------------------------------------------------------------------------------------
+
+Regular hours:
+--------------------
+distance between cars:  3
+Area average waiting times in regular hours: 20.807
+waiting time statistics:
+standard deviation: 18.994
+minimum waiting time: 0.000    maximum waiting time: 56.384
+Quantiles:   Q1=0.000    Q2=21.441     Q3=36.891
+
+Area average passing times in regular hours: 33.359
+Area total pullution emitted due to cars idling in regular hours: 2917.065
+Area total pullution emitted due to cars accelerating in regular hours: 1641.566
+Area total pullution emitted due to cars moving in normal speed in regular hours: 3697.474
+=================================================================================================
+
+distance between cars:  4
+Area average waiting times in regular hours: 17.070
+waiting time statistics:
+standard deviation: 19.211
+minimum waiting time: 0.000    maximum waiting time: 65.761
+Quantiles:   Q1=0.000    Q2=13.096     Q3=26.844
+
+Area average passing times in regular hours: 29.294
+Area total pullution emitted due to cars idling in regular hours: 2130.463
+Area total pullution emitted due to cars accelerating in regular hours: 1714.458
+Area total pullution emitted due to cars moving in normal speed in regular hours: 3000.340
+=================================================================================================
+
+distance between cars:  5
+Area average waiting times in regular hours: 18.223
+waiting time statistics:
+standard deviation: 16.898
+minimum waiting time: 0.000    maximum waiting time: 55.949
+Quantiles:   Q1=0.000    Q2=18.749     Q3=28.639
+
+Area average passing times in regular hours: 29.954
+Area total pullution emitted due to cars idling in regular hours: 2472.921
+Area total pullution emitted due to cars accelerating in regular hours: 1936.446
+Area total pullution emitted due to cars moving in normal speed in regular hours: 2838.206
+================================================================================================
+
+distance between cars:  6
+Area average waiting times in regular hours: 21.184
+waiting time statistics:
+standard deviation: 19.804
+minimum waiting time: 0.000    maximum waiting time: 61.155
+Quantiles:   Q1=0.000    Q2=17.258     Q3=37.524
+
+Area average passing times in regular hours: 35.561
+Area total pullution emitted due to cars idling in regular hours: 2957.076
+Area total pullution emitted due to cars accelerating in regular hours: 2478.313
+Area total pullution emitted due to cars moving in normal speed in regular hours: 3736.326
